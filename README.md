@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJathomefix
 - 👀 I’m interested in using domoticz on my SMA solar power invertor
-- 🌱 I’m currently learning how ti,go,about with this github thing ;-)
+- 🌱 I’m currently learning how to go about with this github thing ;-)
 - 💞️ I’m looking to collaborate on ... sma invertors
 - 📫 How to reach me ...
 
